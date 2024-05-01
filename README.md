@@ -5,4 +5,5 @@ I am learning about GoLang and creating best practices based on each reference I
     - uber-dig
     - without dependency
 - Hexagonal Architecture
+- Linting
 - style-guide
