@@ -16,7 +16,7 @@ Compiled from some references to codify the current best approaches.
     - [Add context to errors](#add-context-to-errors)
 - [Avoid Mutable Globals](#)
 - [Keep the happy path left](#keep-the-happy-path-left)
-- [Function Grouping and Ordering](#function-and-method-names)
+- [Function Grouping and Ordering](#function-grouping-and-ordering)
 - [Don't over-interface](#dont-over-interface)
 - [Main first](#main-first)
 - [Structs](#structs)
