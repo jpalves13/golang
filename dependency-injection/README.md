@@ -4,6 +4,6 @@
 # no-dep-inj
 Without dependency
 
-# Referencies
+# References
 
 [@bygui86](https://github.com/bygui86)

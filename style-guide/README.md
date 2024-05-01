@@ -616,7 +616,7 @@ func TestSomeFunction(t *testing.T) {
 - [golangci-lint](https://github.com/golangci/golangci-lint) to lint your projects before committing
 
 
-## Referências
+## References
 [bahlo](https://github.com/bahlo/go-styleguide)
 
 [google](https://google.github.io/styleguide/go/index)
